@@ -1,0 +1,2 @@
+# Tweets-Sentiment-Analysis-with-roBERTa-Neural-Network
+This is a sentiment analysis program using the recent Machine Learning model called roBERTa for tweets sentiment analysis.  This model is developed by the facecbook AI team.  It's pre-trained on 58 million tweets and is proven to be quite accurate for tweets sentiment analysis. We can use Machine Learning to see whether the emotion of a tweet is positive, neutral and negative.
